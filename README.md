@@ -1,1 +1,1 @@
-conan-datastax-cpp-driver
+Cassandra / Scylladb C/C++ driver
