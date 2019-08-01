@@ -8,7 +8,7 @@ class CppDriverConan(ConanFile):
     name = "cpp-driver"
     version = "2.13.0"
     description = "Cassandra C++ Driver"
-    url = "https://github.com/zinnion/conan-cassandra"
+    url = "https://github.com/zinnion/cpp-driver"
     homepage = "https://github.com/datastax/cpp-driver"
     license = "Apache"
     exports = ["LICENSE.md"]
